@@ -1,6 +1,8 @@
 # Self-Guard: Defending Large Reasoning Models via enhanced self-reflection
 ![framework](workflow.png)
 
+Self-Guard, a lightweight safety defense framework that reinforces safety compliance at the representational level for Large Reasoning Models (LRMs). Self-Guard operates through two principal stages: safety-oriented prompting and safety activation steering. During the first stage, it activates the model's latent safety awareness to evoke spontaneous reflection on potential risks. In the second stage, it extracts the directional shift in the hidden state space and amplifies this safety signal to ensure compliance prevails over sycophancy during inference. Specifically, Self-Guard offers a cost-efficient and robust solution that generalizes across diverse unseen risks without compromising model utility.
+
 ## Quick Start
 
 ### Step 1. Build Environment
