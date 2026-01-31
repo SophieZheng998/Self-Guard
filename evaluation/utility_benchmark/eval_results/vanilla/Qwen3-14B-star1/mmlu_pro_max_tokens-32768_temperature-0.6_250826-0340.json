@@ -1,0 +1,22 @@
+{
+  "category_score": 0.708,
+  "category_score:std": 0.4546823066713725,
+  "category_health": 0.8529411764705882,
+  "answer_extracted": 1.0,
+  "answer_extracted:std": 0.0,
+  "score:std": 0.4546823066713725,
+  "category_economics": 0.6551724137931034,
+  "category_business": 0.8333333333333334,
+  "category_chemistry": 0.75,
+  "category_math": 0.8775510204081632,
+  "category_other": 0.5135135135135135,
+  "category_physics": 0.7894736842105263,
+  "category_psychology": 0.6111111111111112,
+  "category_history": 0.46153846153846156,
+  "category_law": 0.44,
+  "category_engineering": 0.7,
+  "category_computer science": 0.75,
+  "category_biology": 0.875,
+  "category_philosophy": 0.6470588235294118,
+  "score": 0.708
+}
