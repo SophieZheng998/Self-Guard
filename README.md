@@ -1,4 +1,5 @@
 # Self-Guard: Defending Large Reasoning Models via enhanced self-reflection
+![framework](workflow.png)
 
 ## Quick Start
 
